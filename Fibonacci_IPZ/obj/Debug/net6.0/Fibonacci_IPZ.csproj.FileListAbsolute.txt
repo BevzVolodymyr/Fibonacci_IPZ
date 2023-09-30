@@ -1,0 +1,14 @@
+C:\Users\bevzv\source\repos\Fibonacci_IPZ\Fibonacci_IPZ\bin\Debug\net6.0\Fibonacci_IPZ.exe
+C:\Users\bevzv\source\repos\Fibonacci_IPZ\Fibonacci_IPZ\bin\Debug\net6.0\Fibonacci_IPZ.deps.json
+C:\Users\bevzv\source\repos\Fibonacci_IPZ\Fibonacci_IPZ\bin\Debug\net6.0\Fibonacci_IPZ.runtimeconfig.json
+C:\Users\bevzv\source\repos\Fibonacci_IPZ\Fibonacci_IPZ\bin\Debug\net6.0\Fibonacci_IPZ.dll
+C:\Users\bevzv\source\repos\Fibonacci_IPZ\Fibonacci_IPZ\bin\Debug\net6.0\Fibonacci_IPZ.pdb
+C:\Users\bevzv\source\repos\Fibonacci_IPZ\Fibonacci_IPZ\obj\Debug\net6.0\Fibonacci_IPZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bevzv\source\repos\Fibonacci_IPZ\Fibonacci_IPZ\obj\Debug\net6.0\Fibonacci_IPZ.AssemblyInfoInputs.cache
+C:\Users\bevzv\source\repos\Fibonacci_IPZ\Fibonacci_IPZ\obj\Debug\net6.0\Fibonacci_IPZ.AssemblyInfo.cs
+C:\Users\bevzv\source\repos\Fibonacci_IPZ\Fibonacci_IPZ\obj\Debug\net6.0\Fibonacci_IPZ.csproj.CoreCompileInputs.cache
+C:\Users\bevzv\source\repos\Fibonacci_IPZ\Fibonacci_IPZ\obj\Debug\net6.0\Fibonacci_IPZ.dll
+C:\Users\bevzv\source\repos\Fibonacci_IPZ\Fibonacci_IPZ\obj\Debug\net6.0\refint\Fibonacci_IPZ.dll
+C:\Users\bevzv\source\repos\Fibonacci_IPZ\Fibonacci_IPZ\obj\Debug\net6.0\Fibonacci_IPZ.pdb
+C:\Users\bevzv\source\repos\Fibonacci_IPZ\Fibonacci_IPZ\obj\Debug\net6.0\Fibonacci_IPZ.genruntimeconfig.cache
+C:\Users\bevzv\source\repos\Fibonacci_IPZ\Fibonacci_IPZ\obj\Debug\net6.0\ref\Fibonacci_IPZ.dll
